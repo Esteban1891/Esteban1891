@@ -1,1 +1,1 @@
-<img src="https://scontent.fctg2-1.fna.fbcdn.net/v/t1.0-9/116011517_843295156197857_6597525864481873084_n.jpg?_nc_cat=107&_nc_sid=8bfeb9&_nc_ohc=D-L3QBV30qcAX8YZzKh&_nc_ht=scontent.fctg2-1.fna&oh=b5f6bc414d648a4f65af1560481c1e54&oe=5F3F2539" alt="haykremplazaresto">
+<img src="https://github.com/Esteban1891/robotics-blog/blob/master/Captura%20de%20Pantalla%202020-07-21%20a%20la(s)%208.42.35%20p.%C2%A0m..png" alt="haykremplazaresto">
