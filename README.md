@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Esteban De La Hoz</h1>
+<h1 align="center">Hi :earth_americas:, I'm Esteban De La Hoz</h1>
 <h3 align="center">A passionate fullstack developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esteban1891" alt="esteban1891" /> </p>
