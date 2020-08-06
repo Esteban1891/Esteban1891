@@ -25,7 +25,7 @@
 
 <p align="center">
 <a href="https://dev.to/https://dev.to/esteban1891" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/esteban1891" height="30" width="30" /></a>
-<a href="https://twitter.com/esteban18911" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="esteban18911" height="30" width="30" /></a>
+<a href="https://twitter.com/https://twitter.com/Esteban18911" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="esteban18911" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13212605/esteban" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/13212605/esteban" height="30" width="30" /></a>
 <a href="https://medium.com/@estebandelahoz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@estebandelahoz" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucpwffrwsjnf6qegbv-liqww?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucpwffrwsjnf6qegbv-liqww?view_as=subscriber" height="30" width="30" /></a>
