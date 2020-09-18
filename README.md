@@ -29,7 +29,7 @@
 
 <p align="center">
 <a href="https://dev.to/https://dev.to/esteban1891" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/esteban1891" height="30" width="30" /></a>
-<a href="https://twitter.com/https://twitter.com/esteban18911" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/esteban18911" height="30" width="30" /></a>
+<a href="https://twitter.com/esteban18911" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/esteban18911" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/esteban-de-la-hoz-romero-b6270017b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/esteban-de-la-hoz-romero-b6270017b/" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13212605/esteban" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/13212605/esteban" height="30" width="30" /></a>
 <a href="https://medium.com/@estebandelahoz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@estebandelahoz" height="30" width="30" /></a>
