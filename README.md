@@ -1,7 +1,8 @@
 <h1 align="center">Hi :earth_americas:, I'm Esteban De La Hoz</h1>
 <h3 align="center">A passionate fullstack developer from Colombia</h3>
 
-<img src="https://raw.githubusercontent.com/Esteban1891/portafolio_dev/00d4abb5a8f473792220f3ba9b398cc5998f8843/images/1-img.svg" alt="Girl in a jacket" width="900" height="700">
+<p align="center"> <img src="https://raw.githubusercontent.com/Esteban1891/portafolio_dev/00d4abb5a8f473792220f3ba9b398cc5998f8843/images/1-img.svg" alt="Girl in a jacket" width="900" height="700"> </p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esteban1891" alt="esteban1891" /> </p>
