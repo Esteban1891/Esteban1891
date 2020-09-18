@@ -1,6 +1,9 @@
 <h1 align="center">Hi :earth_americas:, I'm Esteban De La Hoz</h1>
 <h3 align="center">A passionate fullstack developer from Colombia</h3>
 
+<img src="<img src="img_girl.jpg" alt="Girl in a jacket">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esteban1891" alt="esteban1891" /> </p>
 
 - 🌱 I’m currently learning **Python, Flask, Django, React.js, Node.js, Docker**
