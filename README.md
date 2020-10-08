@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🌎 Esteban De La Hoz</h1>
+<h1 align="center">Hi 🌎!, I'm Esteban De La Hoz</h1>
 <h3 align="center">A passionate fullstack developer from Colombia</h3>
 
 <p align="center"> <img src="https://raw.githubusercontent.com/Esteban1891/portafolio_dev/00d4abb5a8f473792220f3ba9b398cc5998f8843/images/1-img.svg" alt="presentation" width="500" height="400"> </p>
