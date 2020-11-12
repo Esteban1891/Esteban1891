@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js, Node.js,**
 
-- 👨‍💻 All of my projects are available at [https://esteban1891.github.io/portafolio_dev/](https://esteban1891.github.io/portafolio_dev/)
+- 👨‍💻 All of my projects are available at [https://estebandelahoz.netlify.app/](https://esteban1891.github.io/portafolio_dev/)
 
 - 📝 I regulary write articles on [https://medium.com/@estebandelahoz](https://medium.com/@estebandelahoz)
 
