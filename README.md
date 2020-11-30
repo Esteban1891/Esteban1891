@@ -1,10 +1,9 @@
+## Hey 👋, I'm Esteban De La Hoz!
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Esteban1891/portafolio_dev/00d4abb5a8f473792220f3ba9b398cc5998f8843/images/1-img.svg" style="max-width:100%;">
 </p>
 <br>
-
-## Hey 👋, I'm Esteban De La Hoz!  
-  
 
 <a href="https://github.com/Esteban1891" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
