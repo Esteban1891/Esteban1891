@@ -63,11 +63,11 @@ Machine Learning Engineer with experience in projects and works focusing on help
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Esteban1891&show_icons=true&theme=radical" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Esteban1891&show_icons=true&theme=onedark" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esteban1891&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esteban1891&show_icons=true&theme=onedark" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
