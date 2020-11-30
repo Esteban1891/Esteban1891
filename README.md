@@ -35,3 +35,8 @@
 <a href="https://medium.com/@estebandelahoz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@estebandelahoz" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucpwffrwsjnf6qegbv-liqww?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucpwffrwsjnf6qegbv-liqww?view_as=subscriber" height="30" width="30" /></a>
 </p>
+
+
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
