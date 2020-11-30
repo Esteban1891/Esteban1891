@@ -25,7 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esteban1891&layout=compact" alt="esteban1891" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esteban1891&show_icons=true" alt="esteban1891" /></p>
+
 
 <p align="center">
 <a href="https://dev.to/https://dev.to/esteban1891" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/esteban1891" height="30" width="30" /></a>
