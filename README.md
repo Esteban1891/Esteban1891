@@ -73,4 +73,4 @@ Machine Learning Engineer with experience in projects and works focusing on help
 
 <br/>  
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Esteban1891)](https://github.com/Esteban1891/AirBnB_clone_v4)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
