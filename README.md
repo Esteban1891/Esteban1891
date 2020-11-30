@@ -1,4 +1,6 @@
-## Hey 👋, I'm Esteban De La Hoz!
+<p align="center">
+Hey 👋, I'm Esteban De La Hoz!
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Esteban1891/portafolio_dev/00d4abb5a8f473792220f3ba9b398cc5998f8843/images/1-img.svg" style="max-width:100%;">
