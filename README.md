@@ -1,5 +1,5 @@
 <p align="center">
-Hey 👋, I'm Esteban De La Hoz!
+  <h1>Hey 👋, I'm Esteban De La Hoz!</h1>
 </p>
 
 <p align="center">
