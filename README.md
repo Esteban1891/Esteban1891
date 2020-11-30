@@ -1,6 +1,6 @@
-<p align="center">
-  <h1>Hey 👋, I'm Esteban De La Hoz!</h1>
-</p>
+<h1 align="center">
+Hey 👋, I'm Esteban De La Hoz!
+</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Esteban1891/portafolio_dev/00d4abb5a8f473792220f3ba9b398cc5998f8843/images/1-img.svg" style="max-width:100%;">
