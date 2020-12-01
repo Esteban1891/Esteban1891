@@ -24,11 +24,10 @@ Hey 👋, I'm Esteban De La Hoz!
 </a>  
   
 ### I'm glad to see you here!  
-Machine Learning Engineer with experience in projects and works focusing on helping companies to empower themselves from data to obtain greater performance and profitability supported by the latest technological advances. I love to explore and learn about new things.
+Esteban is a Software Engineer with experience in projects related to web development (Python, JavaScript, Flask), Android development (Flutter) and low-level programming (C, Bash). Proficient in version control systems (Git), databases (SQL) and RESTful APIs. Lifelong learner, curious, team player and passionate about technology. Esteban is in the process of pursuing a degree in Systems Engineering with a strong emphasis on programming.
 
-- 🌱 I’m currently learning Java and Scala.
-- 🔭 I’m currently working on build different predictive models in the financial sector.
-- 😀 I like cooking :man_cook:, reading :books:, climbing :climbing_man:, photography :camera_flash: and playing the violin :violin:. 
+- 🌱 I’m currently learning React and Django.
+- 😀 I like cooking :man_cook:, reading :books:, climbing :climbing_man:, photography :camera_flash: and playing the guitar :guitar:. 
 - 📫 Read my blogs: [Esteban De La Hoz](https://medium.com/@estebandelahoz).
 - 💬 Ask me about anything an everything.
 - 🎯 Portfolio site: [Portfolio](https://estebandelahoz.netlify.app/)
