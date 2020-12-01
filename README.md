@@ -33,7 +33,7 @@ Developer with the ability to analyze and solve problems of high complexity and 
 - 📫 Read my blogs: [Esteban De La Hoz](https://medium.com/@estebandelahoz).
 - 💬 Ask me about anything an everything.
 - 🎯 Portfolio site: [Portfolio](https://estebandelahoz.netlify.app/)
-- ⚡ Fun fact: My first line of code was not "Hello World!"
+- ⚡ Fun fact: dream programming!
 
 <br/>  
 
