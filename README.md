@@ -29,7 +29,7 @@ Esteban is a Fullstack Developer with experience in projects related to web deve
 Developer with the ability to analyze and solve problems of high complexity and ambiguity. With skills to design and implement solutions according to the company context.
 
 - 🌱 I’m currently learning React and Django.
-- 😀 I like cooking :man_cook:, reading :books:, climbing :climbing_man:, photography :camera_flash: and playing the guitar :guitar:. 
+- 😀 I like video game :video_game:, reading :books:, programming :computer:, piano :musical_keyboard: and playing the guitar :guitar:. 
 - 📫 Read my blogs: [Esteban De La Hoz](https://medium.com/@estebandelahoz).
 - 💬 Ask me about anything an everything.
 - 🎯 Portfolio site: [Portfolio](https://estebandelahoz.netlify.app/)
