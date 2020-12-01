@@ -64,10 +64,8 @@ Developer with the ability to analyze and solve problems of high complexity and 
 </td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esteban1891&show_icons=true&theme=onedark" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
   
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Esteban1891&show_icons=true&theme=onedark" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
