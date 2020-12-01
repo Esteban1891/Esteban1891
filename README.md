@@ -2,6 +2,8 @@
 Hey 👋, I'm Esteban De La Hoz!
 </h1>
 
+![](https://media-exp1.licdn.com/dms/image/C4E16AQETwDgo-0EgIQ/profile-displaybackgroundimage-shrink_200_800/0?e=1612396800&v=beta&t=A4EK1X6TSugz78mEkxNKuZCCmtJaWas-YgPZH-fKeL4)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Esteban1891/portafolio_dev/00d4abb5a8f473792220f3ba9b398cc5998f8843/images/1-img.svg" style="max-width:100%;">
 </p>
