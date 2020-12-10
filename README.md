@@ -3,7 +3,7 @@ Hi! :shipit: I'm Esteban De La Hoz!
 </h1>
 
 <p align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C4E16AQETwDgo-0EgIQ/profile-displaybackgroundimage-shrink_200_800/0?e=1612396800&v=beta&t=A4EK1X6TSugz78mEkxNKuZCCmtJaWas-YgPZH-fKeL4" style="max-width:100%;">
+  <img src="https://github.com/Esteban1891/portfolio/blob/master/images/github.gif?raw=true" style="max-width:100%;">
 </p>
 <br>
 
