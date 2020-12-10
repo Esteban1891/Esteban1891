@@ -3,7 +3,7 @@ Hi!, I'm Esteban De La Hoz!
 </h1>
 
 <p align="center">
-  <img src="https://github.com/Esteban1891/portfolio/blob/master/images/github.gif?raw=true" style="max-width:100%;">
+  <img src="https://github.com/Esteban1891/portfolio/blob/master/images/github.gif?raw=true" style="max-width:200%;">
 </p>
 <br>
 
