@@ -69,5 +69,6 @@ Developer with the ability to analyze and solve problems of high complexity and 
 
 
 <br/>  
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Esteban1891)](https://github.com/anuraghazra/github-readme-stats)
 
